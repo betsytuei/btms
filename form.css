@@ -1,0 +1,35 @@
+h2 {text-align: center}
+form {background-color: aqua;
+width: 50%;
+margin: auto;
+padding: 30px;}
+div{display: flex}
+input[type=text],input [type=text], input[type=date],input[type=date]
+{width: 250px;
+height: 40px;
+border-radius:5px;
+margin-top: 20px ;
+    padding-left: 10px;
+
+}
+.submit {height: 40px;
+width: 60px;
+background-color: green;
+margin: 20px}
+
+
+.clear{height: 40px;
+width: 60px;
+background-color: blue;
+margin: 20px}
+textarea{height: 40px;
+width: 300px}
+select{height: 40px;
+width: 250px}
+div{display: flex}
+.projectname{margin-left: 40px}
+.sdate{margin-left: 65px}
+.edate{margin-left: 70px}
+.assign{margin-left: 55px}
+.description{margin-left: 50px}
+.high{margin-left: 85px}
